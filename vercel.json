@@ -16,7 +16,7 @@
   "redirects": [
     {
       "source": "/-/:__PATH*",
-      "destination": "https://pximg.wjghj.cn/:__PATH"
+      "destination": "https://img.pixiv.tangbai.cc/:__PATH"
     }
   ],
   "headers": []
